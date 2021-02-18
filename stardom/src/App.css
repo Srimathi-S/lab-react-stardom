@@ -1,0 +1,64 @@
+img{
+  height:100px;
+  width:100px;
+}
+td{
+  padding-left: 100px;
+  border: 0.5px solid gray;
+  height:100px;
+  width:150px;
+  justify-content: center;
+}
+h1
+{
+  display: flex;
+  justify-content: center;
+}
+tr{
+  background-color: white;
+  display: flex;
+  align-items: center;
+}
+table
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body{
+  background-color: aqua;
+}
+#buttons
+{
+  padding-left: 600px;
+}
+#sort-by-popularity
+{
+  margin-left: 10px;
+  margin-bottom: 15px;
+  height:50px;
+  width:200px;
+  background-color:rgb(133, 121, 121) ;
+  border-radius: 10px;
+  color: white;
+}
+#sort-by-name
+{
+  margin-left: 10px;
+  margin-bottom: 15px;
+  height:50px;
+  width:200px;
+  background-color:rgb(66, 66, 143) ;
+  border-radius: 10px;
+  color: white;
+}
+#delete-button
+{
+  
+  height:30px;
+  width:80px;
+  background-color:red ;
+  border-radius: 10px;
+  color: white;
+}
